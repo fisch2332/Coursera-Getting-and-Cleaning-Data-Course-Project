@@ -8,4 +8,4 @@ This is the course project for the Getting and Cleaning Data Coursera course. Th
 - Labels the main datasets columns
 - Extracts only the mean and std
 - Takes the average and reorders the data
-- The end result is shown in the file tidy.txt (this is of the independent Tidy data set showing the averages)
+- The end result is shown in the file tidy.csv (this is of the independent Tidy data set showing the averages)
